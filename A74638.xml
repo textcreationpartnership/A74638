@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A remonstrance of the state of the Kingdome. Or, A generall survey of all the proceedings of the papists, and other malignants of this kingdome from the death of King James, to this present. Also a discourse touching the composition of His Majesties army, with the severall causes why they take up armes against the Parliament. Whereunto is annexed severall motives to induce the protestants of this kingdome in generall, to adventure their lives and estates in the just defence of religion, King and countrey.</title>
+         </titleStmt>
+         <extent>Approx. 12KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74638</idno><idno type="EEBO-CITATION">99860750</idno>
+  <idno type="VID">156274</idno>
+  <idno type="EEBO-PROQUEST">2240885973</idno>
+  
+            <idno type="STC">Wing R1015A</idno>
+            <idno type="STC">Thomason E129_10</idno>
+            <idno type="STC">ESTC R1983</idno>
+            <idno type="PROQUEST">99860750</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99860750e"/>
+            <note>(EEBO-TCP ; phase 2, no. A74638)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156274)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 23:E129[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A remonstrance of the state of the Kingdome. Or, A generall survey of all the proceedings of the papists, and other malignants of this kingdome from the death of King James, to this present. Also a discourse touching the composition of His Majesties army, with the severall causes why they take up armes against the Parliament. Whereunto is annexed severall motives to induce the protestants of this kingdome in generall, to adventure their lives and estates in the just defence of religion, King and countrey.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Decemb. 7. Printed for J. Wright,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156274:1"/>
+            <p>A Remonstrance OF THE STATE OF THE KINGDOME OR, A generall Survey of all the Proceedings of the Papists, and other Malignants of this Kingdome from the death of King JAMES, to this present.</p>
+            <p>Also a Discourse touching the composition of His Majesties Army, with the severall Causes why they take up armes against the Parliament.</p>
+            <p>Whereunto are annexed severall Motives to induce the Protestants of this Kingdome in generall, to adventure their lives and estates in the just defence of Religion, King and Countrey.</p>
+            <p>
+               <hi>LONDON, Decemb.</hi> 7. Printed for <hi>J. Wright.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:156274:2"/>
+            <pb n="1" facs="tcp:156274:2"/>
+            <head>A REMONSTRANCE of the state of the Kingdome.</head>
+            <p>
+               <seg rend="decorInit">A</seg>Fter the death of King <hi>James,</hi> the Parlia<g ref="char:EOLhyphen"/>ment was broke up, and then the Papists and other malignants of this Kingdome began to work mischiefs openly, not fearing the power of the King, or autho<g ref="char:EOLhyphen"/>rity of the Law, then projects began to take place, so that under a pretence of framing projects for the good of King and people, seve<g ref="char:EOLhyphen"/>rall heavie taxes were thrown upon the subject and the King and kingdome impoverished to inrich some particular persons whose private ends aimed at a publike ruine, (both of King and Kingdome) as their present actions manifestly declare, having thus ingaged themselves, and fearing that the rightfull authority of the Law should take place, they sought to disaffect the King to Parliaments, (knowing their actions not to be Parliament proof) next they sought (find<g ref="char:EOLhyphen"/>ing the kingdome by their meanes, almost sicke of an irre<g ref="char:EOLhyphen"/>coverable disease) and knowing that the readiest way to recover its former vigour and strength must be by weake<g ref="char:EOLhyphen"/>ning the strength of that faction, (namely the Popish and Prelaticall faction) therefore they indeavour to alter the government, frame and constitution of this kingdome, and knowing that the kingdome of <hi>Scotland,</hi> and the kingdome of <hi>England,</hi> were linked together in one united motion, and that this kingdome could not be shipwracked without that
+<pb n="2" facs="tcp:156274:3"/>endured the same tempest, therefore they politickly went a<g ref="char:EOLhyphen"/>bout to refine religion, making religion a cover for their o<g ref="char:EOLhyphen"/>verspreading and hypocryticall designe, knowing that their hypocryticall designe would by that meanes make the greater impression in mens hearts, and finde the lesse op<g ref="char:EOLhyphen"/>position.</p>
+            <p>But God which saw the secrets of their hearts, brought it so to passe that the Scots discovered their intentions and happily crossed them in the height of their hopes, for they found there such opposition, that notwithstanding though they had raised an Armie to inforce that upon them which otherwise would not be admitted, yet so God brought things about, that that blessing which they had taken such came to keep the kingdome from enjoying, they were for<g ref="char:EOLhyphen"/>ced to allow of, and seek meanes to procure, for it was al<g ref="char:EOLhyphen"/>waies their endeavour to prevent the calling of a Parlia<g ref="char:EOLhyphen"/>ment, and yet at last despight of all their farrefetch'd pol<g ref="char:EOLhyphen"/>licies, A Parliament was called, to the great joy of all the Kingdome.</p>
+            <p>But no sooner was there a taste of this joy, but pre<g ref="char:EOLhyphen"/>sently it was converted to a second and much worse sorow: for by their devices, the Parliament was dissolved, and a se<g ref="char:EOLhyphen"/>cond Parliament called, to the joy of all his Majesties good subjects, and to the great sorrow of all the malignants.</p>
+            <p>The Parliament being assembled all possible meanes was used to prevent the designes of the malignant partie, and a bill was pocured for a trienniall Parliament which being granted, the cheif of these malignants either suffered death or imprisonment, that being thought a means to deterre o<g ref="char:EOLhyphen"/>thers from the like practises notwithstanding all this, these malignants being great in Authoritie, and too great in fa<g ref="char:EOLhyphen"/>vour with his Majestie, sought by all meanes to dissolve
+<pb n="3" facs="tcp:156274:3"/>this Paliament, for which cause they perswaded his maje<g ref="char:EOLhyphen"/>sty to accuse severall members of Parliament of high trea<g ref="char:EOLhyphen"/>son, using seuerall wayes (destructive to the Lawes of the Land, and priviledges of Parliament) to seise the persons of the said members and happily had they gained their ends on them, next designe had been to have accused as many more, and so by that meanes to compasse their ends of so many worthy pillars and supporters of the King<g ref="char:EOLhyphen"/>dome.</p>
+            <p>But finding that their hopes were frustrate and that the hearts of all well affected persons stood for them and offe<g ref="char:EOLhyphen"/>red to adventure their lives in the defence of them, in so just a cause, they then perswaded his Majestie that it was not safe for his Majestie to temaine so neare the Citie and that it were much better for his Majestie to withdraw to some convenient place of strength, and to take the Prince also with him.</p>
+            <p>This perswasion of the Malignant party took too good an effect with the Kings most excellent Majesty, for accor<g ref="char:EOLhyphen"/>ding to their counsels and desires, His Maiesty forthwith went from the city of <hi>London,</hi> the ancient Ehrone of His Royall predecessors, and withdrew himselfe to Yorke, where they caused his Maiesty to levie warre against the Parliament, and to raise an army of Papists, and other ill-affected persons, which being assembled together in a most-strong and warlike manner, have plundered severall townes and done many inhumane outrages destructive to that law and religion, which they pretend they take up armes to maintaine.</p>
+            <pb n="4" facs="tcp:156274:4"/>
+            <p>They have iugaged this kingdome in a civill warre, and to strengthen themselves, they have endeavoured to draw into this kingdome forreigne forces, as from <hi>Denmarke</hi> and other places, they have likewise as farre as in them lay, beene assistants to the Rebells in <hi>Ireland,</hi> and that in these particulars.</p>
+            <p>They have hindred all meanes of relief of the Kings pro<g ref="char:EOLhyphen"/>stestant subjects which are in misery by reason of this re<g ref="char:EOLhyphen"/>bellion, for that little relief which was provided to be sent to them, being all that for the present our own necessities could spare, was by them seised on and made pillage of, ma<g ref="char:EOLhyphen"/>king that which was ordained for the necessary relief of the poore Protestants in <hi>Ireland,</hi> the prize of bloud to the de<g ref="char:EOLhyphen"/>boist Cavaliers and priests in <hi>England.</hi>
+            </p>
+            <p>The inumerable evills that have beene heaped upon this Kingdome, by those bloud-thirstie destroyers are without paralell, how much bloud hath been shed? How many in<g ref="char:EOLhyphen"/>nocent men have beene lost in the seeming maintenance of that cause, which they sought to destroy on the contrary? How many wives have been made husbandlesse? How ma<g ref="char:EOLhyphen"/>ny fathers childlesse? How many children fatherlesse? How many friends friendlesse, and it is greatly to be feared that except God give them a curbe in their full carriere to dam<g ref="char:EOLhyphen"/>nation this Kingdome will loose the name and glory of a Kingdome and bury it self in its owne ruines, and all by the practises of these enemies of the truth, these bloud thir<g ref="char:EOLhyphen"/>stie Papists, now having shewed you as in a glasse, the right semblance of their actions: this may serve as one motive to induce everie man to avoid that rock which threatens an inevitable ruine both of Religion Law and libertie.</p>
+            <pb n="5" facs="tcp:156274:4"/>
+            <p>A second motive doth arise from a serious consideration of what benefits hath redounded to us, since the coming together of the high and honourable Court of Parliament: a short survey whereof I will give you in these insuing particulars.</p>
+            <p n="1">1 Consider the insupportable burdens which were throwne upon the subject by the Star-Chamber and High Commission, whose cruelty exceeded the Spanish Inquisition.</p>
+            <p n="2">2 Consider the insufferable bondage of conscience, and a buse of Religion.</p>
+            <p n="3">3 Remember what taxes and projects were heaped upon us, even from the crownes of our heads to the soles of our feet.</p>
+            <p n="4">4 What a device of Shipmoney had we inforced upon us by a pretence of Law, being veiled with the mask of authority, but the veile being taken off, it appeared contrary both to Law or conscience. Many more I might name, but I make no que<g ref="char:EOLhyphen"/>stion but every man hath been sensible of them.</p>
+            <p>All these have been taken off by the Parliament, but now (notwithstanding some of the chief of these were made exam<g ref="char:EOLhyphen"/>ples) yet the major part of these mischief-mongers are gotten together, and having gotten strength, being countenanced by authority, openly proclaime ruine and destruction to the peace of the Kingdome; for notwithstanding their pretences, their actions declare their intentions.</p>
+            <p>Another motive arises from a serious consideration of the composition of those Forces which arise against, and proclaim themselves enemies to the Parliament, to which motive are joy<g ref="char:EOLhyphen"/>ned certain Reasons why they are enemies to the Parliament.</p>
+            <p n="1">1 There is a party of Courtiers, which like so many weather<g ref="char:EOLhyphen"/>cocks are blown round with the vain wind of preferment, these are guided by the Princes smile, and if he frown on any man, then they are his mortall enemies; these may bee justly called time-servers, <hi>aliàs</hi> ignorant Courtiers.</p>
+            <p n="2">2 There is a party of Prelaticall Popish Clergy called Bi<g ref="char:EOLhyphen"/>shops,
+<pb n="6" facs="tcp:156274:5"/>with too great a party which adheres to them, every one of which is swayed more by some sinister end to himself, then any aime at the publike good.</p>
+            <p n="3">3 There is a party of crafty Lawyers, and those that were dependants on the Courts, which neither had a begining from <hi>lure Divino, aut Iure Humano.</hi>
+            </p>
+            <p n="4">4. There is a Party of Projectors, those Locusts that have eaten and devoured the fruite of our Labours, and the thirds of the poore mans Pension.</p>
+            <p n="5">5. There is a Party of undone Gentlemen, whose luxurious Lives, have ruined their estates, and now they ought to defend; having no other way to redeeme their morgaged Estates from the hands of the Vsurer, or their unpaid for Cloathes, from lying in Lavender.</p>
+            <p>Last of all, there is a great Party of Papists, both Gentry, and Layicke, men great in authority, and expert in acting mischiefe and put all these together, here is an Army Royall of destroyers.</p>
+            <p>Now this all men know, there are none of these but have been, &amp; are great lawbreakers, for which they are liable to the censure of Parliament, and therefore they are enemies to the Parliament.</p>
+            <p>But now let us examine who is for the Parliament, for surely in these are contained almost three parts of the Kingdome.</p>
+            <p>Yet there is a God for the parliament; and a wel-affected protestant, and if God be with us, who can be against us, let us therefore all that would professe our selves protestants, joyne with God, who will guide and protect all those that fight his Battailes, let the Justice of our cause arme our hearts with re<g ref="char:EOLhyphen"/>solution, and perseverance, and let us lay downe our lives, and Estates, with willingnesse, and readinesse, and esteem nothing to deare too adventure for the advancement of so good a cause, as the preservation of our Religion, King, and Country.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
